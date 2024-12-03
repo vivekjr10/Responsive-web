@@ -1,4 +1,4 @@
-body{
+/* body{
     padding: 0px;
     margin: 0px;
 } 
@@ -9,6 +9,10 @@ body{
     background-color: chartreuse;
     display: flex;
 }
+
+
+}
+
 
 #layout1{
   
@@ -108,4 +112,13 @@ body{
     font-size: 40px;
 }
 
+} */
+.box{
+    height: 200px;
+    width: 350px;
+    background-color: black;
+    color: brown;
+}
+.mainbox{
+    display: flex;
 }
